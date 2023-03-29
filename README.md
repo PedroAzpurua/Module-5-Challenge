@@ -11,5 +11,9 @@ We concluded with three statements providing insights intot he results.
 Three Conclussions:
 
 Based on the box plots, Infubinol had the greatest final tumor size.
+
+
 There seems to be a possitive correlation between average tumor volume and moise weight for those treated by Capomulin.
+
+
 By the final time point, mice I509 had experienced a rapid decline in tumor volume following by a slight increase.
